@@ -22,7 +22,7 @@
 ---
 ## Poster
 <div align="center">
-<img src="docs/images/Poster-TTDN-16-02-N8.jpg" alt="poster"/>
+<img src="docs/images/" alt="poster"/>
 </div>
 
 ---
@@ -660,9 +660,5 @@ python3 odoo-bin.py -c odoo.conf -u all
 Người sử dụng truy cập theo đường dẫn _http://localhost:8069/_ để đăng nhập vào hệ thống.
 
 ## License
-© Nhóm 8 CNTT 16-02 <br>
-© 2024 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
-
-> [!IMPORTANT]
-> **Vậy là lần cuối đi bên nhau...**  
-> Cay đắng nhưng không đau
+© Nhóm 16 CNTT 17-11 <br>
+© 2026 AIoTLab, Faculty of Information Technology, DaiNam University. All rights reserved.
